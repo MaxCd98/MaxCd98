@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxCd98
-- 👀 I’m interested in music and video game development
-- 🌱 I’m currently learning all but mostly web and desktop 
+- 👀 I’m interested in music and video games
+- 🌱 I’m currently learning java , python and a little bit of web
 - 📫 How to reach me codreanu.marius@pm.me
 
 <!---
